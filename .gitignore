@@ -1,0 +1,5 @@
+#Discord Bot NodeJS DiscordJS
+node_modules/
+.env
+package-lock.json
+.idea
